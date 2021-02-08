@@ -1,6 +1,3 @@
-## Welcome to GitHub Pages
+![home](https://user-images.githubusercontent.com/78755978/107271907-e5add200-6a1a-11eb-92d0-d7eb62d7881e.jpg)
 
-You can use the [editor on GitHub](https://github.com/JiangshanXi/JOJObusiness/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
